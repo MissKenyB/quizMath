@@ -1,0 +1,12 @@
+body{
+    background-position: center;
+    background-size:cover;
+    background: url("https://image.slidesdocs.com/responsive-images/background/handdrawn-style-blue-cute-education-math-lovely-powerpoint-background_a698b5341c__960_540.jpg");
+}
+
+.login_div1 , .login_div2{
+		background: rgb(238, 145, 126);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
