@@ -10,3 +10,41 @@ body{
 		float: none;
 		border-radius: 15px;
 	}
+
+	#player1_name , #player2_name
+	{
+		display: inline-block;
+		margin-left: 20px;
+	}
+#tablero{
+	background-color:rgb(241, 230, 196);
+	width: 10%;
+	margin-top: 40px;
+	margin-left: 15px;
+	border-radius: 7px;
+}
+	#word
+	{
+		width: 60%;
+	}
+	#word_display
+	{
+		letter-spacing: 5px;
+	}
+	#output
+	{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid rgb(238, 145, 126);
+	padding: 10px;
+	float: none;
+	text-align: left;
+	}
+	#responder{
+		background-color: rgb(109, 186, 160);
+		padding-top: 5px;
+		padding-bottom: 5px;
+		padding-left: 40px;
+		padding-right: 40px;
+		border-radius: 5px;
+	}
